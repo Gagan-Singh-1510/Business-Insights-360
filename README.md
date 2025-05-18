@@ -36,6 +36,7 @@ This Business Insights 360 dashboard represents a key milestone in my data analy
 
 **Screenshots**
 ## 📊 Dashboard Preview
-![Dashboard Preview] (https://raw.githubusercontent.com/Gagan-Singh-1510/Business-Insights-360/main/Business-Insights-360-Dashboard.png)
+![Dashboard Preview](https://raw.githubusercontent.com/Gagan-Singh-1510/Business-Insights-360/main/Business-Insights-360-Dashboard.png)
+
 
 
