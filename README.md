@@ -35,4 +35,5 @@ Working on this project has helped me develop and refine a wide range of skills:
 This Business Insights 360 dashboard represents a key milestone in my data analytics journey. It has helped me bridge the gap between data analysis and business decision-making, and I’m excited to continue improving my skills with each project. Feel free to explore the dashboard and provide feedback — I’m always looking for ways to grow and enhance my work.
 
 **Screenshots**
-[Dashboard Preview] https://github.com/Gagan-Singh-1510/Business-Insights-360/blob/main/Business-Insights-360-Dashboard.png
+[Dashboard Preview](https://raw.githubusercontent.com/Gagan-Singh-1510/Business-Insights-360/main/Business-Insights-360-Dashboard.png)
+
